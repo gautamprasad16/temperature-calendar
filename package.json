@@ -1,7 +1,7 @@
 {
-  "name": "devconnector",
+  "name": "temperature-calendar",
   "version": "1.0.0",
-  "description": "Social Network for the developers",
+  "description": "temperature-calendar",
   "main": "server.js",
   "scripts": {
     "start": "node server",
